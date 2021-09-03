@@ -2,7 +2,7 @@
 
 <img src="/preview.gif" width="100%" />
 ## Links
-Links to the starter files of all currently published challenges
+
 
 1. [Yes/No]()
 2. [Dad Jokes](https://github.com/Ramhardik88/Dad-jokes-Api)
