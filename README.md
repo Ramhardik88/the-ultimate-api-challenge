@@ -13,4 +13,4 @@
 7. [XKCD Comics UI](https://github.com/Ramhardik88/xkcd-comics)
 
 ---
-<img src="/npm" width="100%" />
+<img src="npm.png" width="100%" />
