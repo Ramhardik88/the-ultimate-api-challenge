@@ -11,3 +11,6 @@
 5. [Dogapi](https://github.com/Ramhardik88/Dogapi-AJAX)
 6. [Wikipedia Search Page](https://github.com/Ramhardik88/WIKIPEDIA-API)
 7. [XKCD Comics UI](https://github.com/Ramhardik88/xkcd-comics)
+
+---
+<img src="/npm" width="100%" />
