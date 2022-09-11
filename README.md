@@ -1,7 +1,7 @@
 # The Ultimate API Challenge
 
 <img src="/preview.gif" width="100%" />
-## Links
+# Links
 
 
 1. [Yes/No](https://github.com/Ramhardik88/yes-no-api)
